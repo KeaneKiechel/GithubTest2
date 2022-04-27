@@ -5,5 +5,7 @@ public class Main {
         Student s1 = new Student();
         Teacher t1 = new Teacher();
 
+        System.out.println("Hello Morld!");
+
     }
 }
